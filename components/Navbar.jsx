@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className='navbar-fixed'>
       <div className='navbar-container'>
       <p className='logo'>
-        <Link href='/'>Bumia Stores</Link>
+        <Link href='/'>TradeLinks Stores</Link>
       </p>
       <button type='button' className='cart-icon' onClick={() => setShowCart(true)}>
         <BsCart4 style={{color:"white"}}/>
