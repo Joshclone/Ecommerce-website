@@ -5,10 +5,10 @@ const Footer = () => {
     <div className='footer-container'>
       <p>@2023 Bumia Stores All rights reserved</p>
       <p className='icons'>
-        <a href='https://mobile.twitter.com/Blaqbranne' target='blank'>
+        <a href='https://mobile.twitter.com/Joshclone2' target='blank'>
         <AiOutlineTwitter/>
         </a>
-        <a href='https://www.linkedin.com/mwlite/in/peter-ebube-nnamani' target='blank'>
+        <a href='https://www.linkedin.com/mwlite/in/joshuanwaeze' target='blank'>
         <AiFillLinkedin/>
         </a>
       
