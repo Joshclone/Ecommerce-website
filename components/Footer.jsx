@@ -3,7 +3,7 @@ import { AiFillInstagram, AiOutlineTwitter, AiFillFacebook,AiFillLinkedin } from
 const Footer = () => {
   return (
     <div className='footer-container'>
-      <p>@2023 Bumia Stores All rights reserved</p>
+      <p>@2023 TradeLinks All rights reserved -joshclone-</p>
       <p className='icons'>
         <a href='https://mobile.twitter.com/Joshclone2' target='blank'>
         <AiOutlineTwitter/>
